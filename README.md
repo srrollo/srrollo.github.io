@@ -10,5 +10,8 @@
 
 ### HTML
 
-#### Local - Works on Pages but not wiki
+#### Link
+[ER Schema!](ER-Schema.html)
+
+#### iframe - Works on Pages but not wiki
 <iframe src="ER-Schema.html" width="400" height="600"></iframe>
