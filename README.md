@@ -11,7 +11,7 @@
 ### HTML
 
 #### Link
-[ER Schema!](ER-Schema.html)
+[ER Schema!](http://htmlpreview.github.com/?ER-Schema.html)
 
 #### iframe - Works on Pages but not wiki
 <iframe src="ER-Schema.html" width="400" height="600"></iframe>
