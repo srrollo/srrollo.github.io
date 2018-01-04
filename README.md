@@ -11,4 +11,4 @@
 ### HTML - Draw.io Diagram
 
 #### Local
-<object type="text/html" data="ER-Schema.html"></object>
+<iframe src="ER-Schema.html"></iframe>
